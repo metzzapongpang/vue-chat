@@ -3,7 +3,7 @@ import { actions } from '../store';
 
 export default {
     vuex: {
-        actions: actions
+        actions
     },
     data () {
         return {

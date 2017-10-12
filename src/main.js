@@ -10,5 +10,5 @@ Vue.config.devtools = true;
 new Vue({
     el: 'body',
     components: { App },
-    store: store
+    store
 });

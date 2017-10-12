@@ -3,7 +3,7 @@ import { actions } from '../store';
 
 export default {
     vuex: {
-        actions: actions,
+        actions,
         getters: {
             // 过滤后的会话列表
             sessions: ({ sessions, filterKey }) => {

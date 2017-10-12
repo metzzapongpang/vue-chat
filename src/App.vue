@@ -8,9 +8,7 @@ import Message from 'components/message';
 
 export default {
     components: { Card, List, Text, Message },
-    vuex: {
-        actions: actions
-    },
+    vuex: { actions },
     created () {
         this.initData();
     }
