@@ -32,7 +32,7 @@ export default {
 .list {
     li {
         padding: 12px 15px;
-        border-bottom: 1px solid #292C33;
+        border-bottom: 1px solid #292c33;
         cursor: pointer;
         transition: background-color .1s;
 

@@ -32,7 +32,7 @@ export default {
 <style scoped lang="less">
 .card {
     padding: 12px;
-    border-bottom: solid 1px #24272C;
+    border-bottom: solid 1px #24272c;
 
     footer {
         margin-top: 10px;
@@ -59,7 +59,7 @@ export default {
         border: solid 1px #3a3a3a;
         border-radius: 4px;
         outline: none;
-        background-color: #26292E;
+        background-color: #26292e;
     }
 }
 </style>
